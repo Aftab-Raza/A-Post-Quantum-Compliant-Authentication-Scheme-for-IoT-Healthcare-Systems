@@ -65,7 +65,7 @@ shows:
 For a quick non-interactive rehearsal, run:
 
 ```powershell
-python main.py --demo --user-id supervisor_demo --device-id icu-monitor-01
+python main.py --demo --user-id aftab_raza --device-id icu-monitor-01
 ```
 
 ## Replay Attack Demonstration
