@@ -41,7 +41,7 @@ On Linux, the wrapper uses `native/libsaber.so` when it can be loaded.
 On Windows, the wrapper falls back to a development KEM backend so the
 protocol can be tested without a Windows Saber shared library.
 
-## Live Supervisor Demo
+## demonstration
 
 Run the interactive demo from the project root:
 
